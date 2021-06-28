@@ -1,4 +1,4 @@
-# Robot_arm
+# Robot_arm_packages
 
 this to show the steps of installing Ros & [arduino robot arm](https://github.com/smart-methods/arduino_robot_arm) packages
 
